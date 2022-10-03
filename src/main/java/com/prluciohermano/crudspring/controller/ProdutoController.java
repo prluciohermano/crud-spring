@@ -16,7 +16,6 @@ import com.prluciohermano.crudspring.model.Produto;
 import com.prluciohermano.crudspring.repository.ProdutoRepository;
 
 import lombok.AllArgsConstructor;
-import org.springframework.web.bind.annotation.RequestParam;
 
 
 @RestController
